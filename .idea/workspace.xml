@@ -5,14 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b127f6c-261c-4180-b3b3-2a78c9d598bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML/caso02.vpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Condominio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Departamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Grupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML/caso01.vpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capturas/Class Diagram1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/capturas/Class Diagram1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capturas/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Escuela.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Mascota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Perro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +33,11 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="caso01" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -37,12 +52,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thoma\IdeaProjects\evidencia10\src\main\java" />
+      <recent name="C:\Users\thoma\IdeaProjects\evidencia10\capturas" />
+      <recent name="C:\Users\thoma\IdeaProjects\evidencia10\UML" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
